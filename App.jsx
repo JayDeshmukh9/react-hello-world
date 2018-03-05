@@ -4,7 +4,7 @@ import SearchBar from './src/search_bar.jsx';
 import VideoList from './src/video-list.jsx';
 import VideDetail from './src/video-detail.jsx';
 
-const API_KEY = '#' 	
+const API_KEY = 'process.enc.YTKEY' 	
 
 class App extends React.Component {
    
